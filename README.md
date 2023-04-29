@@ -1,1 +1,1 @@
-/Bartkev/markrepo.github.io
+markrepo.github.io
